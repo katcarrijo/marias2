@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    max-width: 400px;
+    margin: auto;
+    background-color: rgba(255, 100, 100, 0.767);
+}
+
+
+h1, h2 {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 40px;
+    background-color: rgb(168, 0, 0);
+    border-radius: 10px;
+    padding: 20px 40px;
+    box-shadow: 0px 0px 10px black;
+    color: white;
+}
+
+a.volta {
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 150px;
+    background-color: rgb(168, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a.avante {
+    color: aliceblue;
+    text-decoration: none;
+    background-color: rgb(168, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+video {
+    background-color: red;
+    margin-top: 150px;
+    padding: 10px;
+    padding-top: -50px; 
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+#especial {
+    padding: 100px;
+    font-size: 80px;
+}
+
+
+
+
+
